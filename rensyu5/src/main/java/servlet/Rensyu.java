@@ -27,7 +27,7 @@ public class Rensyu extends HttpServlet {
 		out.println("<html>");
 		out.println("<head>");
 		out.println("<meta charset=\"UTF-8\">");
-		out.println("<title>数当て結果</title>");
+		out.println("<title>お問い合わせ</title>");
 		out.println("</head>");
 		out.println("<body>");
 		out.println("<p>" + name + "</p>");

@@ -19,7 +19,7 @@
 	</select><br>
 	
 	お問い合わせ内容:<br>
-	<input type="textarea" name="body"><br>
+	<textarea name="body"></textarea><br>
 	<input type="submit" value="登録">
 	
 </form>
